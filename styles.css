@@ -1,0 +1,26 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #d5e011; /* Change this color code to the desired background color */
+}
+
+
+.stopwatch {
+    margin-top: 50px;
+}
+
+.display {
+    font-size: 2em;
+}
+
+button {
+    margin: 5px;
+    padding: 10px 20px;
+    font-size: 1em;
+    cursor: pointer;
+}
+
+.laps {
+    list-style-type: none;
+    padding: 0;
+}
